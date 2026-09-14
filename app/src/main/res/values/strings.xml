@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TimeSaver</string>
+    <string name="tagline">Save Your Time. Focus on What Matters.</string>
+    <string name="tagline_secondary">Less Scrolling. More Doing.</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_focus">Focus</string>
+    <string name="nav_apps">App Control</string>
+    <string name="nav_stats">Statistics</string>
+    <string name="nav_goals">Goals</string>
+    <string name="nav_settings">Settings &amp; Web</string>
+    <string name="start_focus_session">Start Focus Session</string>
+    <string name="in_focus_mode">You\'re in Focus Mode</string>
+    <string name="focus_lock_title">Focus Lock</string>
+    <string name="study_timer_title">Study Timer (Pomodoro)</string>
+    <string name="emergency_access">Emergency &amp; Safety Access</string>
+    <string name="distractions_prevented">Distractions Prevented</string>
+    <string name="daily_streak">Daily Streak</string>
+    <string name="today_focus">Today\'s Focus</string>
+</resources>
